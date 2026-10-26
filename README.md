@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech Information Technology student at Matrusri Engeneering College (2023–27). I build real products — from AI-powered platforms to e-commerce backends <br>const arbaz = {<br>  location   : "Hyderabad, India 🇮🇳"<br>  education  : "B.Tech IT @ MECS  (2023–27)",<br>  passions   : ["Full-Stack Dev", "AI/ML", "Open Source", "Competitive Programming"],<br>  contact    : "naveenkumar503321@gmail.com<br>};
+B.Tech Information Technology student at Matrusri Engeneering College (2023–27). I build real products — from AI-powered platforms to e-commerce backends <br>const naveen = {<br>  location   : "Hyderabad, India 🇮🇳"<br>  education  : "B.Tech IT @ MECS  (2023–27)",<br>  passions   : ["Full-Stack Dev", "AI/ML", "Open Source", "Competitive Programming"],<br>  contact    : "naveenkumar503321@gmail.com<br>};
 
 
 ## 🌐 Socials:
